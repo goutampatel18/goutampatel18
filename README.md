@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=<goutampatel18>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=goutampatel18&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 
 ## ❤️ Session's Attended
 
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
+- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/goutam-patel18/)
 
 ## 🤝 Let's get Connected
 <div align="left">
@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![<Goutam>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Goutam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
 <!--
 **goutampatel18/goutampatel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
