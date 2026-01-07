@@ -1,57 +1,110 @@
-## Hi there 👋
+## Hi there 👋 I'm Goutam Patel
+
 <img src="https://komarev.com/ghpvc/?username=goutampatel18&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## About Me 👤
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
+### 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=520&lines=Backend+Developer+%7C+Python+%7C+Flask+%7C+FastAPI)](https://git.io/typing-svg)
 
-🔭 I’m currently working on open source projects
+- 🎓 Computer Science Engineering student  
+- 🧠 Strong fundamentals in programming and databases  
+- 🔧 Backend-focused developer building REST APIs using **Flask** and **FastAPI**  
+- 🗄️ Experience working with **MySQL** and **SQLite** databases  
+- 🤖 Worked with **Botpress** for chatbot development  
+- 🎯 Focused on strengthening backend skills through real-world project development
 
-👯 I’m looking to collaborate on AITR's open source project
+---
 
-🌱 I’m currently learning Angular
+### ⚙️ Tech Stack
 
-💬 Ask me about Tech and Open Source
+#### Languages
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+Python
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/>
+C
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
+C++
+</td>
+</tr>
+</table>
 
-⚡ Fun fact, I can code in day and night both
+#### Backend Frameworks
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br/>
+Flask
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br/>
+FastAPI
+</td>
+</tr>
+</table>
 
-## ⚙️ Tech Stack
+#### Databases
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+MySQL
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>
+SQLite
+</td>
+</tr>
+</table>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
+#### Frontend Basics
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+HTML
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+CSS
+</td>
+</tr>
+</table>
 
-## ❤️ Session's Attended
+#### Tools & Platforms
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+Git
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+GitHub
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+Botpress
+</td>
+</tr>
+</table>
 
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/goutam-patel18/)
 
-## 🤝 Let's get Connected
+### 🤝 Connect With Me
 <div align="left">
-  <a href="<your-linkedin-profile-url>" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://tinyurl.com/Goutampatel18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:<your-email-address>" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/<your-twitter-username>" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="mailto:goutampatel2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
 
-## 📊 GitHub Stats
+---
 
-![Goutam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
-<!--
-**goutampatel18/goutampatel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
