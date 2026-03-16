@@ -13,6 +13,8 @@
 - 🎯 Focused on strengthening backend skills through real-world project development
 
 ---
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/anonymous_p18)
 
 ### ⚙️ Tech Stack
 
