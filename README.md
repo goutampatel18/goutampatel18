@@ -7,14 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&background=FFFFFF00\&width=520\&lines=Backend+Developer+%7C+ML+Intern+%7C+FastAPI+%7C+RAG+%7C+AI)](https://git.io/typing-svg)
 
 * 🎓 Computer Science Engineering student
-* 🤖 Currently working as a **Machine Learning Intern**, gaining hands-on experience in real-world AI systems
-* 🧠 Strong fundamentals in programming, databases, and problem-solving
-* 🔧 Backend-focused developer building scalable REST APIs using **Flask** and **FastAPI**
-* 🧠 Exploring **Machine Learning, NLP, and Retrieval-Augmented Generation (RAG)**
-* 💬 Experience building AI chatbots using **Botpress** and **RASA**
-* 🗄️ Worked with **MySQL, PostgreSQL, and SQLite**
-* 📊 Hands-on experience with **data analysis, model building, and experimentation using Kaggle & Colab**
-* 🎯 Focused on building production-ready backend + AI-integrated systems
+- Backend-focused developer specializing in **FastAPI and REST API design**
+- Currently working as a **Machine Learning Intern**, building real-world AI systems
+- Experienced in building APIs with **authentication, database integration, and scalable architecture**
+- Interested in **AI-powered backend systems (RAG, NLP, chatbots)**
 
 ---
 
