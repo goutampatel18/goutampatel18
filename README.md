@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&background=FFFFFF00\&width=520\&lines=Backend+Developer+%7C+ML+Intern+%7C+FastAPI+%7C+RAG+%7C+AI)](https://git.io/typing-svg)
 
-* 🎓 Computer Science Engineering student
+- Computer Science Engineering student
 - Backend-focused developer specializing in **FastAPI and REST API design**
 - Currently working as a **Machine Learning Intern**, building real-world AI systems
 - Experienced in building APIs with **authentication, database integration, and scalable architecture**
