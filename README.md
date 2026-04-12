@@ -136,11 +136,7 @@ Kaggle
 
 ---
 
-## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anonymous_p18)
-
----
 
 ### 🤝 Connect With Me
 
