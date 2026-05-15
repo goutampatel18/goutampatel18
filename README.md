@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&background=FFFFFF00\&width=520\&lines=Backend+Developer+%7C+ML+Intern+%7C+FastAPI+%7C+RAG+%7C+AI)](https://git.io/typing-svg)
 
-- Computer Science Engineering student
-- Backend-focused developer specializing in **FastAPI and REST API design**
-- Currently working as a **Machine Learning Intern**, building real-world AI systems
-- Experienced in building APIs with **authentication, database integration, and scalable architecture**
-- Interested in **AI-powered backend systems (RAG, NLP, chatbots)**
+- Computer Science Engineering student  
+- Backend-focused developer specializing in **FastAPI, REST APIs, and scalable backend systems**  
+- Currently working as a **Machine Learning Intern**, developing real-world AI applications  
+- Experienced in **authentication, database integration, and AI-powered backend architecture**  
+- Interested in **Machine Learning, Generative AI, NLP, RAG systems, and chatbot development**  
 
 ---
 
@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=goutampatel18&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=goutampatel18&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=goutampatel18&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
